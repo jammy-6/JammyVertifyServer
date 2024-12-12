@@ -1,0 +1,9 @@
+{
+    "databases": [
+        {
+            "name": "root",
+            "url": "redis://192.168.0.205:6379",
+            "password": "root"
+        }
+    ]
+}
